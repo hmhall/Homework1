@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B0497B66-7F03-7A9B-69D0-15E9E55F0C6A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PhongShader.shader">
+    <Files>
+      <File FileName="Assets/PingPong_CellularAutomata.cs" Line="69" Column="29" />
+      <File FileName="Assets/RenderToTexture_CA.shader" Line="94" Column="123" />
+      <File FileName="Assets/OutputTexture.shader" Line="51" Column="55" />
+      <File FileName="Assets/LoadLevel.cs" Line="21" Column="49" />
+      <File FileName="Assets/PhongTexture.shader" Line="1" Column="1" />
+      <File FileName="Assets/SolidColor.shader" Line="1" Column="1" />
+      <File FileName="Assets/PhongShader.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PhongShader.shader" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8b90b1cf-2466-417e-8279-553cde1dfd78" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

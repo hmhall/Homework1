@@ -1,3 +1,4 @@
+https://mistakesintomiracles.itch.io/homework1
 This project contains 3 scenes, corresponding with parts A, B, and C of the homework assignment. Press the numeral keys 1-3 to switch between the scenes.
 Scene 1: Each object has an animation and a different shader. From left to right:
    -The duck has a vertex displacement shader that moves each of its vertices whose y position in world coordinates are >1 to the right.

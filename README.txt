@@ -10,4 +10,4 @@ The scene also includes three lights:
 
 Scene 2: The image of Jack Black has a blur filter. Press the right arrow to increase the blur effect (it must be pressed multiple times and cannot be held down). Press the left arrow to decrease the blur effect. 
 
-Scene 3: This cellular automata has an added third color which wars against the green. It cannot reproduce on its own but can convert green, depending on how many green are adjacent versus how many other reds. 
+Scene 3: This cellular automata has an added third color which wars against the green. It cannot reproduce on its own but can convert green, depending on how many green are adjacent versus how many other reds. This scene is bugged in the executable but runs fine in the editor. 
